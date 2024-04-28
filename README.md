@@ -1,1 +1,1 @@
-# RNBoilerPlate
+BoilerPlate for React Native.
